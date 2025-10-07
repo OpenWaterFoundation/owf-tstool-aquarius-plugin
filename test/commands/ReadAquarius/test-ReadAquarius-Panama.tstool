@@ -1,0 +1,3 @@
+ACAC.Aquarius.Discharge Total.IrregSecond~Aquarius-Panama
+ReadAquarius(DataStore="Aquarius-Panama",DataType="Discharge Total",Interval="IrregSecond",LocationId="ACAC",Alias="%L-%D")
+ReadAquarius(DataStore="Aquarius-Panama",DataType="Discharge Total",Interval="IrregSecond",LocationId="ACAC",DataApi="Raw",Alias="%L-%D-Raw")
